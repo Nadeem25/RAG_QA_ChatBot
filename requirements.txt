@@ -11,3 +11,5 @@ langchain_groq
 langchain_core
 langchain-chroma
 langchain_groq
+langchain_huggingface
+sentence-transformers
